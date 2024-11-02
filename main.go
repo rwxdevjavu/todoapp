@@ -47,8 +47,7 @@ Notes:
   - Task IDs are assigned automatically when you add a new task.
   - Completed tasks will be indicated in the task list.
   - Use quotes around multi-word titles or descriptions.
-
-Happy task managing!`)
+`)
 }
 
 func main() {
